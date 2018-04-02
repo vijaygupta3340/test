@@ -1,0 +1,10 @@
+ Volume in drive C is SYSTEM
+ Volume Serial Number is 4477-97FA
+
+ Directory of c:\MyProject
+
+04/02/2018  03:40 PM    <DIR>          .
+04/02/2018  03:40 PM    <DIR>          ..
+04/02/2018  03:40 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  330,144,956,416 bytes free
