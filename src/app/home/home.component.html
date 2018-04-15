@@ -1,0 +1,28 @@
+<html>
+<body >
+<a routerLink= '/product'> + Add Product </a>
+
+<h1>Products</h1>
+<div class="prod">
+<table width="100%">
+  <tr  *ngFor = "let category of categorys"> 
+  <td >
+    <div  *ngFor= "let subcategory of category.SubCategoryList">
+      <div style="float:left"  *ngFor= "let childCategory of subcategory.ChildCategoryList">
+          &nbsp;{{childCategory.ChildCategoryName}} /         
+      </div>
+    </div>       
+  </td>
+  </tr>
+  </table>
+</div>
+  <style>
+
+.prod {
+  background-color: rgba(255, 255, 255, 0.733);
+  color :rgba(0, 0, 0, 0.575)
+}
+  </style>
+
+</body>    
+</html>   

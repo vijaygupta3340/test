@@ -1,0 +1,3345 @@
+{
+    
+    "categorys" :[
+    {
+        "CategoryType": "mobile",
+        "CategoryName": "Mobile, Tablets & Accessories",
+        "CategoryIcon": "phones-black.svg",
+        "SubCategoryList": [
+            {
+                "SubCategoryType": "mobiles",
+                "SubCategoryName": "Mobile Phones",
+                "ChildCategoryList": [
+                    {
+                        "ChildCategory": "All Mobiles",
+                        "ChildCategoryName": "All Mobiles",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "Apple",
+                        "ChildCategoryName": "Apple",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "Samsung",
+                        "ChildCategoryName": "Samsung",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "Vivo",
+                        "ChildCategoryName": "Vivo",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "HTC",
+                        "ChildCategoryName": "HTC",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "Sony",
+                        "ChildCategoryName": "Sony",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "LG",
+                        "ChildCategoryName": "LG",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "OnePlus",
+                        "ChildCategoryName": "OnePlus",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "Oppo",
+                        "ChildCategoryName": "Oppo",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "Xiaomi",
+                        "ChildCategoryName": "Xiaomi",
+                        "CanCompare": "1"
+                    }
+                ]
+            },
+            {
+                "SubCategoryType": "tablet",
+                "SubCategoryName": "Tablets",
+                "ChildCategoryList": [
+                    {
+                        "ChildCategory": "All Tablets",
+                        "ChildCategoryName": "All Tablets",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "Samsung",
+                        "ChildCategoryName": "Samsung",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "Asus",
+                        "ChildCategoryName": "Asus",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "HTC",
+                        "ChildCategoryName": "HTC",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "Dell",
+                        "ChildCategoryName": "Dell",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "Apple",
+                        "ChildCategoryName": "Apple",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "iBall",
+                        "ChildCategoryName": "iBall",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "Lenovo",
+                        "ChildCategoryName": "Lenovo",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "Micromax",
+                        "ChildCategoryName": "Micromax",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "HP",
+                        "ChildCategoryName": "HP",
+                        "CanCompare": "1"
+                    }
+                ]
+            },
+            {
+                "SubCategoryType": "mobile-accessories",
+                "SubCategoryName": "Mobile Accessories",
+                "ChildCategoryList": [
+                    {
+                        "ChildCategory": "memory-cards",
+                        "ChildCategoryName": "MicroSD Memory Cards",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "batteries",
+                        "ChildCategoryName": "Mobile Battery",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "chargers",
+                        "ChildCategoryName": "Mobile Chargers",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "cables",
+                        "ChildCategoryName": "Cables",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "power-banks",
+                        "ChildCategoryName": "Power Banks",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "smart-watches",
+                        "ChildCategoryName": "Smart Watches",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "fitness-tracker",
+                        "ChildCategoryName": "Smart Bands",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "wireless-speakers",
+                        "ChildCategoryName": "Wireless Speakers",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "cases-covers",
+                        "ChildCategoryName": "Cases and Covers",
+                        "CanCompare": "1"
+                    }
+                ]
+            },
+            {
+                "SubCategoryType": "car-mobile-accessories",
+                "SubCategoryName": "Car Mobile Accessories",
+                "ChildCategoryList": [
+                    {
+                        "ChildCategory": "car-chargers",
+                        "ChildCategoryName": "Car Chargers",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "car-kits",
+                        "ChildCategoryName": "Car Kits",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "car-cradles",
+                        "ChildCategoryName": "Car Cradles & Mounts",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "gps-navigation-devices",
+                        "ChildCategoryName": "GPS Navigation Devices",
+                        "CanCompare": "1"
+                    }
+                ]
+            },
+            {
+                "SubCategoryType": "headphones-headsets",
+                "SubCategoryName": "Headphones & Headsets",
+                "ChildCategoryList": [
+                    {
+                        "ChildCategory": "custom-pf-l2-headphones",
+                        "ChildCategoryName": "Headphones",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "bluetooth-headsets",
+                        "ChildCategoryName": "Bluetooth Headsets",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "headsets",
+                        "ChildCategoryName": "Wired Headsets",
+                        "CanCompare": "1"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "CategoryType": "computer",
+        "CategoryName": "Laptops & Peripherals",
+        "CategoryIcon": "computers-black.svg",
+        "SubCategoryList": [
+            {
+                "SubCategoryType": "laptops",
+                "SubCategoryName": "Laptops",
+                "ChildCategoryList": [
+                    {
+                        "ChildCategory": "All Laptops",
+                        "ChildCategoryName": "All Laptops",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "HP",
+                        "ChildCategoryName": "HP",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "Dell",
+                        "ChildCategoryName": "Dell",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "Lenovo",
+                        "ChildCategoryName": "Lenovo",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "Acer",
+                        "ChildCategoryName": "Acer",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "Asus",
+                        "ChildCategoryName": "Asus",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "",
+                        "ChildCategoryName": "",
+                        "CanCompare": ""
+                    },
+                    {
+                        "ChildCategory": "Microsoft",
+                        "ChildCategoryName": "Microsoft",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "Apple",
+                        "ChildCategoryName": "Apple",
+                        "CanCompare": "1"
+                    }
+                ]
+            },
+            {
+                "SubCategoryType": "storage-and-memory",
+                "SubCategoryName": "Storage and Memory",
+                "ChildCategoryList": [
+                    {
+                        "ChildCategory": "computer-pendrive",
+                        "ChildCategoryName": "Pen Drives Price",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "computer-external-hard-disks",
+                        "ChildCategoryName": "External Hard Disks Price",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "computer-external-dvd-writer",
+                        "ChildCategoryName": "External DVD Writers",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "card-reader",
+                        "ChildCategoryName": "Card Readers",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "external-ssd",
+                        "ChildCategoryName": "External SSD",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "network-attached-storage",
+                        "ChildCategoryName": "Network Attached Storage",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "sd-memory-cards",
+                        "ChildCategoryName": "SD Memory Cards",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "memory-cards",
+                        "ChildCategoryName": "MicroSD Memory Cards",
+                        "CanCompare": "1"
+                    }
+                ]
+            },
+            {
+                "SubCategoryType": "accessories-and-peripherals",
+                "SubCategoryName": "Accessories and Peripherals",
+                "ChildCategoryList": [
+                    {
+                        "ChildCategory": "computer-mouse",
+                        "ChildCategoryName": "Mouse",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "computer-speaker",
+                        "ChildCategoryName": "Speakers",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "computer-keyboard",
+                        "ChildCategoryName": "Keyboards",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "computer-webcam",
+                        "ChildCategoryName": "Webcams",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "computer-laptop-battery",
+                        "ChildCategoryName": "Laptop Batteries",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "computer-laptop-chargers",
+                        "ChildCategoryName": "Laptop Chargers & Adapters",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "computer-cooling-pads-and-stands",
+                        "ChildCategoryName": "Cooling Pads",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "computer-monitor",
+                        "ChildCategoryName": "Monitors",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "laser-pointers",
+                        "ChildCategoryName": "Laser Pointers",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "microphones",
+                        "ChildCategoryName": "Microphones",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "portable-computer-screen-filters",
+                        "ChildCategoryName": "Laptop Screen Protectors",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "presentation-remotes",
+                        "ChildCategoryName": "Presentation Remotes",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "touch-pads",
+                        "ChildCategoryName": "Touch Pads",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "custom-pf-l2-headphones",
+                        "ChildCategoryName": "Headphones",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "headsets",
+                        "ChildCategoryName": "Computer Headsets",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "laptop-docking-stations",
+                        "ChildCategoryName": "Laptop Docking Stations",
+                        "CanCompare": "1"
+                    }
+                ]
+            },
+            {
+                "SubCategoryType": "printers-and-inks",
+                "SubCategoryName": "Printers and Inks",
+                "ChildCategoryList": [
+                    {
+                        "ChildCategory": "computer-printer",
+                        "ChildCategoryName": "Single Function Printers",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "computer-scanner",
+                        "ChildCategoryName": "Scanners",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "computer-toners",
+                        "ChildCategoryName": "Laser Toners",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "computer-inks",
+                        "ChildCategoryName": "Inkjet Inks",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "computer-multi-function",
+                        "ChildCategoryName": "Multifunction Printers",
+                        "CanCompare": "1"
+                    }
+                ]
+            },
+            {
+                "SubCategoryType": "networking",
+                "SubCategoryName": "Networking",
+                "ChildCategoryList": [
+                    {
+                        "ChildCategory": "computer-router",
+                        "ChildCategoryName": "WiFi Routers",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "computer-access-points",
+                        "ChildCategoryName": "Access Points",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "computer-switches",
+                        "ChildCategoryName": "Switches",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "computer-data-cards",
+                        "ChildCategoryName": "Data Cards",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "computer-wireless-usb-adapters",
+                        "ChildCategoryName": "Wireless USB Adapters",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "computer-network-interface-cards",
+                        "ChildCategoryName": "Network Interface Cards",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "antennas-and-amplifiers",
+                        "ChildCategoryName": "Antennas & Amplifiers",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "bluetooth-adapters",
+                        "ChildCategoryName": "Bluetooth Adapters",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "modems",
+                        "ChildCategoryName": "Modems",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "power-lan-adapters",
+                        "ChildCategoryName": "Power LAN Adapters",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "print-servers",
+                        "ChildCategoryName": "Print Servers",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "repeaters-and-extenders",
+                        "ChildCategoryName": "Repeaters & Extenders",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "usb-hubs",
+                        "ChildCategoryName": "USB Hubs",
+                        "CanCompare": "1"
+                    }
+                ]
+            },
+            {
+                "SubCategoryType": "software",
+                "SubCategoryName": "Software",
+                "ChildCategoryList": [
+                    {
+                        "ChildCategory": "computer-software",
+                        "ChildCategoryName": "Antivirus and Security Software",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "computer-office-tools",
+                        "ChildCategoryName": "Microsoft Office",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "computer-operating-system",
+                        "ChildCategoryName": "Microsoft Windows",
+                        "CanCompare": "1"
+                    }
+                ]
+            },
+            {
+                "SubCategoryType": "desktop-components",
+                "SubCategoryName": "Desktop & Components",
+                "ChildCategoryList": [
+                    {
+                        "ChildCategory": "desktop",
+                        "ChildCategoryName": "Desktop",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "graphic-cards",
+                        "ChildCategoryName": "Graphic Cards",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "internal-hard-disk",
+                        "ChildCategoryName": "Internal Hard Drives",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "motherboards",
+                        "ChildCategoryName": "Motherboards",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "smps-power-supplies",
+                        "ChildCategoryName": "Power Supply Unit",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "processor-fans",
+                        "ChildCategoryName": "Processor Fans & Cooling",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "processors",
+                        "ChildCategoryName": "Processors",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "ram",
+                        "ChildCategoryName": "RAM",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "sound-cards",
+                        "ChildCategoryName": "Sound Cards",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "tv-tuners",
+                        "ChildCategoryName": "TV Tuners",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "computer-cabinets",
+                        "ChildCategoryName": "Computer Cabinets",
+                        "CanCompare": "1"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "CategoryType": "camera",
+        "CategoryName": "Cameras, DSLRs & Accessories",
+        "CategoryIcon": "cameras-black.svg",
+        "SubCategoryList": [
+            {
+                "SubCategoryType": "cameras-dslrs-more",
+                "SubCategoryName": "Cameras, DSLRs & More",
+                "ChildCategoryList": [
+                    {
+                        "ChildCategory": "digital-camera",
+                        "ChildCategoryName": "Digital Cameras",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "digital-slr-camera",
+                        "ChildCategoryName": "Digital SLR Cameras",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "camcorder",
+                        "ChildCategoryName": "Camcorders",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "digital-photo-frames",
+                        "ChildCategoryName": "Digital Photo Frames",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "binoculars",
+                        "ChildCategoryName": "Binoculars",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "surveillance-cameras",
+                        "ChildCategoryName": "Surveillance Cameras",
+                        "CanCompare": "1"
+                    }
+                ]
+            },
+            {
+                "SubCategoryType": "lenses-lens-accessories",
+                "SubCategoryName": "Lenses & Lens Accessories",
+                "ChildCategoryList": [
+                    {
+                        "ChildCategory": "filters",
+                        "ChildCategoryName": "Lens Filters",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "lens-cleaner",
+                        "ChildCategoryName": "Lens Cleaners",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "lens-cap",
+                        "ChildCategoryName": "Lens Caps",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "lenses",
+                        "ChildCategoryName": "Camera Lenses",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "lens-hoods",
+                        "ChildCategoryName": "Lens Hoods",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "adapters-and-converters",
+                        "ChildCategoryName": "Adapters & Converters",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "extension-tubes",
+                        "ChildCategoryName": "Extension Tubes",
+                        "CanCompare": "1"
+                    }
+                ]
+            },
+            {
+                "SubCategoryType": "camera-accessories",
+                "SubCategoryName": "Camera Accessories",
+                "ChildCategoryList": [
+                    {
+                        "ChildCategory": "sd-memory-cards",
+                        "ChildCategoryName": "SD Memory Cards",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "flashes",
+                        "ChildCategoryName": "Camera Flashes",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "camera-remote-controls",
+                        "ChildCategoryName": "Camera Remote Controls",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "rechargeable-batteries",
+                        "ChildCategoryName": "Rechargeable Batteries",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "battery-chargers",
+                        "ChildCategoryName": "Battery Chargers",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "viewfinder-extenders",
+                        "ChildCategoryName": "Viewfinder Extenders",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "camera-and-camcorder-batteries",
+                        "ChildCategoryName": "Camera and Camcorder batteries",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "camera-screen-protectors",
+                        "ChildCategoryName": "Camera Screen Protectors",
+                        "CanCompare": "1"
+                    }
+                ]
+            },
+            {
+                "SubCategoryType": "tripods",
+                "SubCategoryName": "Tripods",
+                "ChildCategoryList": [
+                    {
+                        "ChildCategory": "tripod",
+                        "ChildCategoryName": "Tripods",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "monopods",
+                        "ChildCategoryName": "Monopods",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "tripod-ball-heads",
+                        "ChildCategoryName": "Tripod Ball Heads",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "camera-mounts-and-clamps",
+                        "ChildCategoryName": "Camera Mounts & Clamps",
+                        "CanCompare": "1"
+                    }
+                ]
+            },
+            {
+                "SubCategoryType": "flash-accessories",
+                "SubCategoryName": "Flash & Accessories",
+                "ChildCategoryList": [
+                    {
+                        "ChildCategory": "adapter-rings",
+                        "ChildCategoryName": "Adapter Rings",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "shoe-mounts",
+                        "ChildCategoryName": "Shoe Mounts",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "diffusers-and-modifiers",
+                        "ChildCategoryName": "Diffusers & Modifiers",
+                        "CanCompare": "1"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "CategoryType": "electronics",
+        "CategoryName": "TV & Entertainment Devices",
+        "CategoryIcon": "tvs-black.svg",
+        "SubCategoryList": [
+            {
+                "SubCategoryType": "tv",
+                "SubCategoryName": "LCD & LED TVs",
+                "ChildCategoryList": [
+                    {
+                        "ChildCategory": "All TVs",
+                        "ChildCategoryName": "All TVs",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "Samsung",
+                        "ChildCategoryName": "Samsung",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "LG",
+                        "ChildCategoryName": "LG",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "Sony",
+                        "ChildCategoryName": "Sony",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "Panasonic",
+                        "ChildCategoryName": "Panasonic",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "Vu",
+                        "ChildCategoryName": "Vu",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "Sanyo",
+                        "ChildCategoryName": "Sanyo",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "Micromax",
+                        "ChildCategoryName": "Micromax",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "Xiaomi",
+                        "ChildCategoryName": "Xiaomi",
+                        "CanCompare": "1"
+                    }
+                ]
+            },
+            {
+                "SubCategoryType": "ipods-home-theaters-dvd-players",
+                "SubCategoryName": "iPods, Home Theaters & DVD Players",
+                "ChildCategoryList": [
+                    {
+                        "ChildCategory": "ipod-mp3",
+                        "ChildCategoryName": "MP3 Players",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "home-theaters",
+                        "ChildCategoryName": "Home Theaters",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "video-players",
+                        "ChildCategoryName": "Video & DVD Players",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "projectors",
+                        "ChildCategoryName": "Projectors",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "smart-tv",
+                        "ChildCategoryName": "Smart TV Boxes",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "voice-recorders",
+                        "ChildCategoryName": "Voice Recorders",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "av-receivers",
+                        "ChildCategoryName": "AV Receivers",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "sound-amplifiers",
+                        "ChildCategoryName": "Sound Amplifiers",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "boom-boxes",
+                        "ChildCategoryName": "Boom Boxes",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "fm-radio",
+                        "ChildCategoryName": "FM Radio",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "karoke-players",
+                        "ChildCategoryName": "Karoke players",
+                        "CanCompare": "1"
+                    }
+                ]
+            },
+            {
+                "SubCategoryType": "headphones-memory-cards",
+                "SubCategoryName": "Headphones & Memory Cards",
+                "ChildCategoryList": [
+                    {
+                        "ChildCategory": "headphones",
+                        "ChildCategoryName": "Headphones",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "headsets",
+                        "ChildCategoryName": "Headsets",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "bluetooth-headsets",
+                        "ChildCategoryName": "Bluetooth Headsets",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "sd-memory-cards",
+                        "ChildCategoryName": "SD Memory Cards",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "memory-cards",
+                        "ChildCategoryName": "MicroSD Memory Cards",
+                        "CanCompare": "1"
+                    }
+                ]
+            },
+            {
+                "SubCategoryType": "gaming-accessories",
+                "SubCategoryName": "Gaming & Accessories",
+                "ChildCategoryList": [
+                    {
+                        "ChildCategory": "gaming-console",
+                        "ChildCategoryName": "Gaming Console",
+                        "CanCompare": "1"
+                    }
+                ]
+            },
+            {
+                "SubCategoryType": "tv-video-accessories",
+                "SubCategoryName": "TV & Video Accessories",
+                "ChildCategoryList": [
+                    {
+                        "ChildCategory": "remote-controls",
+                        "ChildCategoryName": "Remote Controls",
+                        "CanCompare": "1"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "CategoryType": "appliance",
+        "CategoryName": "Home & Kitchen Appliances",
+        "CategoryIcon": "homeapp-black.svg",
+        "SubCategoryList": [
+            {
+                "SubCategoryType": "kitchen-appliances",
+                "SubCategoryName": "Kitchen Appliances",
+                "ChildCategoryList": [
+                    {
+                        "ChildCategory": "mixers",
+                        "ChildCategoryName": "Mixer Grinder Juicers",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "electric-kettles",
+                        "ChildCategoryName": "Electric Kettles",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "induction-cooktops",
+                        "ChildCategoryName": "Induction Cook Tops",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "choppers-blenders",
+                        "ChildCategoryName": "Choppers & Blenders",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "electric-cookers",
+                        "ChildCategoryName": "Electric (Rice) Cookers",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "pop-up-toasters",
+                        "ChildCategoryName": "Pop Up Toasters",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "coffee-makers",
+                        "ChildCategoryName": "Coffee Makers",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "microwave-oven",
+                        "ChildCategoryName": "Microwave Ovens",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "otg",
+                        "ChildCategoryName": "Oven Toaster Grill (OTG)",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "sandwich-makers",
+                        "ChildCategoryName": "Sandwich Makers",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "water-purifiers",
+                        "ChildCategoryName": "Water Purifiers",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "food-processors",
+                        "ChildCategoryName": "Food Processors",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "air-fryers",
+                        "ChildCategoryName": "Air Fryers",
+                        "CanCompare": "1"
+                    }
+                ]
+            },
+            {
+                "SubCategoryType": "home-appliances",
+                "SubCategoryName": "Home Appliances",
+                "ChildCategoryList": [
+                    {
+                        "ChildCategory": "irons",
+                        "ChildCategoryName": "Irons",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "washing-machines",
+                        "ChildCategoryName": "Washing Machines",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "refrigerators",
+                        "ChildCategoryName": "Refrigerators",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "emergency-light",
+                        "ChildCategoryName": "Emergency Lights",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "air-conditioner",
+                        "ChildCategoryName": "Air Conditioners",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "vacuum-cleaners",
+                        "ChildCategoryName": "Vacuum Cleaners",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "inverters-batteries",
+                        "ChildCategoryName": "Inverters & Batteries",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "dishwashers",
+                        "ChildCategoryName": "Dishwashers",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "spike-surge-protectors",
+                        "ChildCategoryName": "Spike Surge Protectors",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "power-supplies",
+                        "ChildCategoryName": "UPS",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "voltage-stabilizers",
+                        "ChildCategoryName": "Voltage Stabilizers",
+                        "CanCompare": "1"
+                    }
+                ]
+            },
+            {
+                "SubCategoryType": "heaters-fans-coolers",
+                "SubCategoryName": "Heaters, Fans & Coolers",
+                "ChildCategoryList": [
+                    {
+                        "ChildCategory": "air-coolers",
+                        "ChildCategoryName": "Air Coolers",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "fans",
+                        "ChildCategoryName": "Fans",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "geysers",
+                        "ChildCategoryName": "Geysers",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "immersion-rods",
+                        "ChildCategoryName": "Immersion Rods",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "room-heaters",
+                        "ChildCategoryName": "Room Heaters",
+                        "CanCompare": "1"
+                    }
+                ]
+            },
+            {
+                "SubCategoryType": "lighting",
+                "SubCategoryName": "Lighting",
+                "ChildCategoryList": [
+                    {
+                        "ChildCategory": "led-lights",
+                        "ChildCategoryName": "LED Lights",
+                        "CanCompare": "1"
+                    }
+                ]
+            },
+            {
+                "SubCategoryType": "hardware-tools",
+                "SubCategoryName": "Hardware Tools",
+                "ChildCategoryList": [
+                    {
+                        "ChildCategory": "power-tools",
+                        "ChildCategoryName": "Power Tools",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "hand-tools",
+                        "ChildCategoryName": "Hand Tools",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "measuring-tools",
+                        "ChildCategoryName": "Measuring Tools",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "tool-accessories",
+                        "ChildCategoryName": "Tool Accessories",
+                        "CanCompare": "1"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "CategoryType": "care",
+        "CategoryName": "Personal & Health Devices",
+        "CategoryIcon": "personal-black.svg",
+        "SubCategoryList": [
+            {
+                "SubCategoryType": "personal-care-products",
+                "SubCategoryName": "Personal Care Products",
+                "ChildCategoryList": [
+                    {
+                        "ChildCategory": "shavers",
+                        "ChildCategoryName": "Electric Shaver",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "trimmers",
+                        "ChildCategoryName": "Trimmer",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "epilators",
+                        "ChildCategoryName": "Epilator",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "hair-dryers",
+                        "ChildCategoryName": "Hair Dryer",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "hair-straighteners",
+                        "ChildCategoryName": "Hair Straightener",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "hair-curlers",
+                        "ChildCategoryName": "Hair Curler",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "electric-toothbrushes",
+                        "ChildCategoryName": "Electric Toothbrush",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "hair-stylers",
+                        "ChildCategoryName": "Hair Styler",
+                        "CanCompare": "1"
+                    }
+                ]
+            },
+            {
+                "SubCategoryType": "health-care-products",
+                "SubCategoryName": "Health Care Products",
+                "ChildCategoryList": [
+                    {
+                        "ChildCategory": "bp-monitors",
+                        "ChildCategoryName": "BP Monitor",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "digital-thermometers",
+                        "ChildCategoryName": "Digital Thermometer",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "nebulizers",
+                        "ChildCategoryName": "Nebulizer",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "massagers",
+                        "ChildCategoryName": "Massager",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "pulse-oximeters",
+                        "ChildCategoryName": "Pulse Oximeter",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "heat-therapy",
+                        "ChildCategoryName": "Heating Pad",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "blood-glucose-monitors",
+                        "ChildCategoryName": "Glucometer",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "body-fat-monitors",
+                        "ChildCategoryName": "Body Fat Analyzer",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "pedometer-step-counters",
+                        "ChildCategoryName": "Pedometer",
+                        "CanCompare": "1"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "CategoryType": "men",
+        "CategoryName": "Men",
+        "CategoryIcon": "men.png",
+        "SubCategoryList": [
+            {
+                "SubCategoryType": "clothing-men",
+                "SubCategoryName": "Clothing",
+                "ChildCategoryList": [
+                    {
+                        "ChildCategory": "casual-shirts-clothing-men",
+                        "ChildCategoryName": "Casual Shirts",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "tshirts-clothing-men",
+                        "ChildCategoryName": "T-Shirts",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "formal-shirts-clothing-men",
+                        "ChildCategoryName": "Formal Shirts",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "jeans-bottoms-clothing-men",
+                        "ChildCategoryName": "Jeans",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "trousers-bottoms-clothing-men",
+                        "ChildCategoryName": "Pants & Trousers",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "shorts-3-4th-bottoms-clothing-men",
+                        "ChildCategoryName": "Shorts & 3/4ths",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "ethnic-clothing-men",
+                        "ChildCategoryName": "Ethnic Wear",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "suits-blazers-men",
+                        "ChildCategoryName": "Suits & Blazers",
+                        "CanCompare": "0"
+                    }
+                ]
+            },
+            {
+                "SubCategoryType": "shoes-men",
+                "SubCategoryName": "Shoes",
+                "ChildCategoryList": [
+                    {
+                        "ChildCategory": "casual-shoes-men",
+                        "ChildCategoryName": "Casual Shoes",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "custom-pf-l2-sports-shoes-men",
+                        "ChildCategoryName": "Sports Shoes",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "formal-shoes-men",
+                        "ChildCategoryName": "Formal Shoes",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "sandals-shoes-men",
+                        "ChildCategoryName": "Sandals & Floaters",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "slippers-shoes-men",
+                        "ChildCategoryName": "Slippers & Flip Flops",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "shoe-care-men",
+                        "ChildCategoryName": "Shoe Care",
+                        "CanCompare": "0"
+                    }
+                ]
+            },
+            {
+                "SubCategoryType": "bags-men",
+                "SubCategoryName": "Bags",
+                "ChildCategoryList": [
+                    {
+                        "ChildCategory": "wallets-bags-men",
+                        "ChildCategoryName": "Wallets",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "backpacks-bags-men",
+                        "ChildCategoryName": "Backpacks",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "utility-bags-men",
+                        "ChildCategoryName": "Utility & Travel Bags",
+                        "CanCompare": "0"
+                    }
+                ]
+            },
+            {
+                "SubCategoryType": "winterwear-clothing-men",
+                "SubCategoryName": "Winter Wear",
+                "ChildCategoryList": [
+                    {
+                        "ChildCategory": "sweatshirts-winterwear-clothing-men",
+                        "ChildCategoryName": "Sweatshirts",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "jackets-winterwear-clothing-men",
+                        "ChildCategoryName": "Winter Jackets",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "sweaters-winterwear-clothing-men",
+                        "ChildCategoryName": "Sweaters & Pullovers",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "thermal-wear-men",
+                        "ChildCategoryName": "Thermal Wear",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "gloves-mufflers-men",
+                        "ChildCategoryName": "Gloves, Mufflers & Scarves",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "coats-winterwear-clothing-men",
+                        "ChildCategoryName": "Coats & Blazers",
+                        "CanCompare": "0"
+                    }
+                ]
+            },
+            {
+                "SubCategoryType": "accessories-men",
+                "SubCategoryName": "Accessories",
+                "ChildCategoryList": [
+                    {
+                        "ChildCategory": "socks-men",
+                        "ChildCategoryName": "Socks",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "belts-accessories-men",
+                        "ChildCategoryName": "Belts",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "ties-cufflinks-accessories-men",
+                        "ChildCategoryName": "Ties & Cufflinks",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "caps-hats-men",
+                        "ChildCategoryName": "Caps & Hats",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "rainwear-men",
+                        "ChildCategoryName": "Rainwear",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "watches-men",
+                        "ChildCategoryName": "Watches",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "sunglasses-accessories-men",
+                        "ChildCategoryName": "Sunglasses",
+                        "CanCompare": "0"
+                    }
+                ]
+            },
+            {
+                "SubCategoryType": "jewellery-accessories-men",
+                "SubCategoryName": "Jewellery",
+                "ChildCategoryList": [
+                    {
+                        "ChildCategory": "rings-men",
+                        "ChildCategoryName": "Rings",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "bracelets-men",
+                        "ChildCategoryName": "Bracelets",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "chains-men",
+                        "ChildCategoryName": "Chains",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "goldcoins-men",
+                        "ChildCategoryName": "Gold coins",
+                        "CanCompare": "0"
+                    }
+                ]
+            },
+            {
+                "SubCategoryType": "men-eyeglasses",
+                "SubCategoryName": "Eyeglasses",
+                "ChildCategoryList": [
+                    {
+                        "ChildCategory": "eyeglasses-men",
+                        "ChildCategoryName": "Eyeglasses",
+                        "CanCompare": "0"
+                    }
+                ]
+            },
+            {
+                "SubCategoryType": "sportswear-men",
+                "SubCategoryName": "Sportswear",
+                "ChildCategoryList": [
+                    {
+                        "ChildCategory": "track-suits-men",
+                        "ChildCategoryName": "Track Suits",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "sports-tshirts-men",
+                        "ChildCategoryName": "Sports Tshirts",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "track-jackets-men",
+                        "ChildCategoryName": "Track Jackets",
+                        "CanCompare": "0"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "CategoryType": "women",
+        "CategoryName": "Women",
+        "CategoryIcon": "woman.png",
+        "SubCategoryList": [
+            {
+                "SubCategoryType": "clothing-women",
+                "SubCategoryName": "Clothing",
+                "ChildCategoryList": [
+                    {
+                        "ChildCategory": "tops-clothing-women",
+                        "ChildCategoryName": "Shirts,Tops & Tees",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "dress-clothing-women",
+                        "ChildCategoryName": "Dresses",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "jeans-bottoms-clothing-women",
+                        "ChildCategoryName": "Jeans",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "trousers-bottoms-clothing-women",
+                        "ChildCategoryName": "Trousers",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "leggings-women",
+                        "ChildCategoryName": "Leggings",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "skirts-bottoms-clothing-women",
+                        "ChildCategoryName": "Skirts",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "shorts-3-4th-bottoms-clothing-women",
+                        "ChildCategoryName": "Shorts & 3/4ths",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "shrugs-and-jackets-clothing-women",
+                        "ChildCategoryName": "Shrugs & Jackets",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "maternity-clothing-women",
+                        "ChildCategoryName": "Maternity",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "plussize-clothing-women",
+                        "ChildCategoryName": "Plus Size",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "sportswear-women",
+                        "ChildCategoryName": "Sportswear",
+                        "CanCompare": "0"
+                    }
+                ]
+            },
+            {
+                "SubCategoryType": "ethnic-clothing-women",
+                "SubCategoryName": "Ethnic Clothing",
+                "ChildCategoryList": [
+                    {
+                        "ChildCategory": "kurta-ethnic-women",
+                        "ChildCategoryName": "Kurtas & Kurtis",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "sarees-ethnic-women",
+                        "ChildCategoryName": "Sarees",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "suits-ethnic-women",
+                        "ChildCategoryName": "Suit Sets",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "salwars-churidars-women",
+                        "ChildCategoryName": "Salwars & Churidars",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "dressmaterial-ethnic-women",
+                        "ChildCategoryName": "Dress Materials",
+                        "CanCompare": "0"
+                    }
+                ]
+            },
+            {
+                "SubCategoryType": "lingerie-clothing-women",
+                "SubCategoryName": "Lingerie & Sleepwear",
+                "ChildCategoryList": [
+                    {
+                        "ChildCategory": "bras-lingerie-clothing-women",
+                        "ChildCategoryName": "Bras",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "panties-lingerie-clothing-women",
+                        "ChildCategoryName": "Panties",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "shapewear-women",
+                        "ChildCategoryName": "Shapewear",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "nightwear-lingerie-clothing-women",
+                        "ChildCategoryName": "Night Suits",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "camisoles-women",
+                        "ChildCategoryName": "Camisoles & Slips",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "sports-bra-women",
+                        "ChildCategoryName": "Sports Bra",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "night-dresses-women",
+                        "ChildCategoryName": "Night Dresses",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "sets-lingerie-clothing-women",
+                        "ChildCategoryName": "Lingerie Sets",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "swimwear-women",
+                        "ChildCategoryName": "Swimwear",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "accessories-lingerie-clothing-women",
+                        "ChildCategoryName": "Accessories",
+                        "CanCompare": "0"
+                    }
+                ]
+            },
+            {
+                "SubCategoryType": "winterwear-clothing-women",
+                "SubCategoryName": "Winter Wear",
+                "ChildCategoryList": [
+                    {
+                        "ChildCategory": "sweatshirts-winterwear-clothing-women",
+                        "ChildCategoryName": "Sweatshirts",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "sweater-winterwear-clothing-women",
+                        "ChildCategoryName": "Sweaters & Pullovers",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "jackets-winterwear-clothing-women",
+                        "ChildCategoryName": "Winter Jackets",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "coats-winterwear-clothing-women",
+                        "ChildCategoryName": "Coats",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "thermal-wear-women",
+                        "ChildCategoryName": "Thermal Wear",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "accessories-winterwear-clothing-women",
+                        "ChildCategoryName": "Winter Accessories",
+                        "CanCompare": "0"
+                    }
+                ]
+            },
+            {
+                "SubCategoryType": "shoes-women",
+                "SubCategoryName": "Shoes",
+                "ChildCategoryList": [
+                    {
+                        "ChildCategory": "sandals-casual-shoes-women",
+                        "ChildCategoryName": "Sandals",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "wedges-heels-shoes-women",
+                        "ChildCategoryName": "Platform & Wedges",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "heels-shoes-women",
+                        "ChildCategoryName": "Heels",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "flats-shoes-women",
+                        "ChildCategoryName": "Flats",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "bellies-casual-shoes-women",
+                        "ChildCategoryName": "Bellies",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "sneakers-women",
+                        "ChildCategoryName": "Casual Shoes & Sneakers",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "slippers-shoes-women",
+                        "ChildCategoryName": "Slippers & Flip Flops",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "sports-shoes-women",
+                        "ChildCategoryName": "Sports Shoes",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "boots-casual-shoes-women",
+                        "ChildCategoryName": "Boots",
+                        "CanCompare": "0"
+                    }
+                ]
+            },
+            {
+                "SubCategoryType": "bags-women",
+                "SubCategoryName": "Bags",
+                "ChildCategoryList": [
+                    {
+                        "ChildCategory": "handbag-bags-women",
+                        "ChildCategoryName": "Handbags",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "wallets-women",
+                        "ChildCategoryName": "Wallets",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "tote-bags-women",
+                        "ChildCategoryName": "Tote Bags",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "slingbags-bags-women",
+                        "ChildCategoryName": "Sling & Crossbody bags",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "clutches-women",
+                        "ChildCategoryName": "Clutches",
+                        "CanCompare": "0"
+                    }
+                ]
+            },
+            {
+                "SubCategoryType": "accessories-women",
+                "SubCategoryName": "Accessories",
+                "ChildCategoryList": [
+                    {
+                        "ChildCategory": "watches-women",
+                        "ChildCategoryName": "Watches",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "sunglasses-accessories-women",
+                        "ChildCategoryName": "Sunglasses",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "belts-accessories-women",
+                        "ChildCategoryName": "Belts",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "eyeglasses-women",
+                        "ChildCategoryName": "Eyeglasses",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "stoles-scarves-women",
+                        "ChildCategoryName": "Stoles & Scarves",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "hats-caps-women",
+                        "ChildCategoryName": "Hats & Caps",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "socks-women",
+                        "ChildCategoryName": "Socks",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "hair-accessories-women",
+                        "ChildCategoryName": "Hair Accessories",
+                        "CanCompare": "0"
+                    }
+                ]
+            },
+            {
+                "SubCategoryType": "jewellery-women",
+                "SubCategoryName": "Fancy Jewellery",
+                "ChildCategoryList": [
+                    {
+                        "ChildCategory": "earrings-jewellery-women",
+                        "ChildCategoryName": "Earrings",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "necklace-jewellery-women",
+                        "ChildCategoryName": "Necklace & Sets",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "rings-jewellery-women",
+                        "ChildCategoryName": "Rings",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "bangles-women",
+                        "ChildCategoryName": "Bangles & Bracelets",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "pendants-women",
+                        "ChildCategoryName": "Pendant & Sets",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "anklets-women",
+                        "ChildCategoryName": "Anklets & Toe Rings",
+                        "CanCompare": "0"
+                    }
+                ]
+            },
+            {
+                "SubCategoryType": "precious-jewellery-women",
+                "SubCategoryName": "Precious Jewellery",
+                "ChildCategoryList": [
+                    {
+                        "ChildCategory": "earrings-precious-jewellery-women",
+                        "ChildCategoryName": "Earrings",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "bangles-bracelets-precious-jewellery-women",
+                        "ChildCategoryName": "Bangles & Bracelets",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "rings-precious-jewellery-women",
+                        "ChildCategoryName": "Rings",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "precious-pendants-women",
+                        "ChildCategoryName": "Pendants",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "neckpiece-precious-jewellery-women",
+                        "ChildCategoryName": "Chains & Necklaces",
+                        "CanCompare": "0"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "CategoryType": "home",
+        "CategoryName": "Home Decor",
+        "CategoryIcon": "home-decor.png",
+        "SubCategoryList": [
+            {
+                "SubCategoryType": "decor",
+                "SubCategoryName": "Decor",
+                "ChildCategoryList": [
+                    {
+                        "ChildCategory": "decoratives-decor",
+                        "ChildCategoryName": "Showpieces & Decoratives",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "clocks-decor",
+                        "ChildCategoryName": "Clocks",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "paintings-and-wall-art-decor",
+                        "ChildCategoryName": "Paintings & Wall Art",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "flowers-and-vases-decor-home-decor",
+                        "ChildCategoryName": "Flowers & Vases",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "candle-fragrance-decor",
+                        "ChildCategoryName": "Candle & Fragrances",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "lighting",
+                        "ChildCategoryName": "Lighting & Lamps",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "religion-and-spirituality-decor-home-decor",
+                        "ChildCategoryName": "Religion & Spirituality",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "garden-and-outdoor-decor-home-decor",
+                        "ChildCategoryName": "Garden & Outdoor Decor",
+                        "CanCompare": "0"
+                    }
+                ]
+            },
+            {
+                "SubCategoryType": "furniture",
+                "SubCategoryName": "Furniture",
+                "ChildCategoryList": [
+                    {
+                        "ChildCategory": "bean-seatings-furniture-home",
+                        "ChildCategoryName": "Bean Bags",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "shoe-racks-cabinets-wardrobes-furniture-home-decor",
+                        "ChildCategoryName": "Shoe Racks",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "bedroom-furniture",
+                        "ChildCategoryName": "Bed & Bedsides",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "seatings-living-room-furniture-home-decor",
+                        "ChildCategoryName": "Seatings & Chairs",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "sofa-living-room-furniture-home-decor",
+                        "ChildCategoryName": "Sofa & Sets",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "tables-living-room-furniture-home-decor",
+                        "ChildCategoryName": "Center & Utility Tables",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "dining-furniture",
+                        "ChildCategoryName": "Dining Tables & Chairs",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "wallshelves-furniture",
+                        "ChildCategoryName": "Wall Shelves",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "wardrobes-cabinets-wardrobes-furniture-home-decor",
+                        "ChildCategoryName": "Wardrobes & Cabinets",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "storage-wardrobes-furniture-home",
+                        "ChildCategoryName": "Storage Units",
+                        "CanCompare": "0"
+                    }
+                ]
+            },
+            {
+                "SubCategoryType": "kitchen-dining",
+                "SubCategoryName": "Kitchen & Dining",
+                "ChildCategoryList": [
+                    {
+                        "ChildCategory": "dining-serving",
+                        "ChildCategoryName": "Dining & Serving",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "cookware-and-bakeware-kitchen",
+                        "ChildCategoryName": "Cookware & Bakeware",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "bar-glassware-kitchen",
+                        "ChildCategoryName": "Bar & Drinkware",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "glasses-everyday-bar-kitchen-home",
+                        "ChildCategoryName": "Everyday Glasses",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "tea-coffee-kitchen",
+                        "ChildCategoryName": "Tea & Coffee",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "bottles-storage-kitchen-home",
+                        "ChildCategoryName": "Bottles & Sippers",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "containers-storage-kitchen-home",
+                        "ChildCategoryName": "Containers & Jars",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "tools-cutlery-kitchen-home",
+                        "ChildCategoryName": "Kitchen Tools",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "lunch-boxes-storage-kitchen-home",
+                        "ChildCategoryName": "Lunch Boxes",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "food-storage-kitchen-home",
+                        "ChildCategoryName": "Food Storage",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "kitchen-stands-home",
+                        "ChildCategoryName": "Kitchen Stands",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "kitchen-accessories-home",
+                        "ChildCategoryName": "Kitchen Accessories",
+                        "CanCompare": "0"
+                    }
+                ]
+            },
+            {
+                "SubCategoryType": "home-linen-home-decor",
+                "SubCategoryName": "Home Linen",
+                "ChildCategoryList": [
+                    {
+                        "ChildCategory": "bedsheets-bed-linen-bed-bath-home-decor",
+                        "ChildCategoryName": "Bedsheets & Sets",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "curtains-cushions-decor",
+                        "ChildCategoryName": "Curtains & Cushions",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "carpets-rugs-decor",
+                        "ChildCategoryName": "Carpets, Rugs & Mats",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "towels-bath-essentials-bed-bath-home-decor",
+                        "ChildCategoryName": "Towels",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "kitchen-and-table-linens-home-linen",
+                        "ChildCategoryName": "Kitchen & Table Linens",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "pillows-mattresses",
+                        "ChildCategoryName": "Pillows & Mattress",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "quilts-blankets",
+                        "ChildCategoryName": "Quilts & Blankets",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "fabrics-home",
+                        "ChildCategoryName": "Fabrics",
+                        "CanCompare": "0"
+                    }
+                ]
+            },
+            {
+                "SubCategoryType": "plants-gardening-home",
+                "SubCategoryName": "Plants & Gardening",
+                "ChildCategoryList": [
+                    {
+                        "ChildCategory": "plants-garden-decor-home",
+                        "ChildCategoryName": "Plants",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "seeds-home",
+                        "ChildCategoryName": "Seeds",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "tools-garden-decor-home",
+                        "ChildCategoryName": "Garden tools",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "pots-garden-decor-home",
+                        "ChildCategoryName": "Pots & Planters",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "water-cans-home",
+                        "ChildCategoryName": "Water Cans",
+                        "CanCompare": "0"
+                    }
+                ]
+            },
+            {
+                "SubCategoryType": "utility-home",
+                "SubCategoryName": "Home Utility",
+                "ChildCategoryList": [
+                    {
+                        "ChildCategory": "laundry-baskets-bath-essentials-bed-bath-home-decor",
+                        "ChildCategoryName": "Laundry Bags",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "hangers-home",
+                        "ChildCategoryName": "Hangers & Organizers",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "ironing-boards-home",
+                        "ChildCategoryName": "Ironing Boards",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "cloth-stands-home",
+                        "ChildCategoryName": "Cloth Stands",
+                        "CanCompare": "0"
+                    }
+                ]
+            },
+            {
+                "SubCategoryType": "household-home",
+                "SubCategoryName": "Household",
+                "ChildCategoryList": [
+                    {
+                        "ChildCategory": "mops-home",
+                        "ChildCategoryName": "Mops & Floor Cleaners",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "dustbins-home",
+                        "ChildCategoryName": "Dustbins",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "cleaning-brushes-home",
+                        "ChildCategoryName": "Cleaning Brushes",
+                        "CanCompare": "0"
+                    }
+                ]
+            },
+            {
+                "SubCategoryType": "hardware-home",
+                "SubCategoryName": "Hardware",
+                "ChildCategoryList": [
+                    {
+                        "ChildCategory": "wallpaper-tiles-home",
+                        "ChildCategoryName": "Wallpaper and Tiles",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "kitchen-bath-fixtures-home",
+                        "ChildCategoryName": "Kitchen & Bath Fixtures",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "bathroom-accessories-home",
+                        "ChildCategoryName": "Bathroom Accessories",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "door-home",
+                        "ChildCategoryName": "Door & Door Fittings",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "paints-home",
+                        "ChildCategoryName": "Paints",
+                        "CanCompare": "0"
+                    }
+                ]
+            },
+            {
+                "SubCategoryType": "fixtures-home",
+                "SubCategoryName": "Electrical Fixtures",
+                "ChildCategoryList": [
+                    {
+                        "ChildCategory": "extension-cords-home",
+                        "ChildCategoryName": "Extension Cords & Multi-plugs",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "switches-home",
+                        "ChildCategoryName": "Switches & Sockets",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "wires-home",
+                        "ChildCategoryName": "Wires",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "door-bells-home",
+                        "ChildCategoryName": "Door Chimes & Bells",
+                        "CanCompare": "0"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "CategoryType": "kids",
+        "CategoryName": "Kids",
+        "CategoryIcon": "kid.svg",
+        "SubCategoryList": [
+            {
+                "SubCategoryType": "boys-clothing-kids",
+                "SubCategoryName": "Boy Clothing",
+                "ChildCategoryList": [
+                    {
+                        "ChildCategory": "tshirts-boys-clothing-kids",
+                        "ChildCategoryName": "T-Shirts",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "shorts-capris-boys-clothing-kids",
+                        "ChildCategoryName": "Shorts & Capris",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "jeans-trousers-boys-clothing-kids",
+                        "ChildCategoryName": "Jeans & Trousers",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "inner-sleepwear-boys-clothing-kids",
+                        "ChildCategoryName": "Inner & Sleepwear",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "shirts-boys-clothing-kids",
+                        "ChildCategoryName": "Shirts",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "ethnicwear-boys-clothing-kids",
+                        "ChildCategoryName": "Ethnic Wear",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "winterwear-boys-clothing-kids",
+                        "ChildCategoryName": "Winterwear",
+                        "CanCompare": "0"
+                    }
+                ]
+            },
+            {
+                "SubCategoryType": "girls-clothing-kids",
+                "SubCategoryName": "Girl Clothing",
+                "ChildCategoryList": [
+                    {
+                        "ChildCategory": "dresses-frocks-girls-clothing-kids",
+                        "ChildCategoryName": "Dresses & Frocks",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "jeans-trousers-girls-clothing-kids",
+                        "ChildCategoryName": "Jeans & Trousers",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "tops-tunics-girls-clothing-kids",
+                        "ChildCategoryName": "Tops & T-Shirts",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "ethnicwear-girls-clothing-kids",
+                        "ChildCategoryName": "Ethnic Wear",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "inner-sleepwear-girls-clothing-kids",
+                        "ChildCategoryName": "Inner & Sleepwear",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "winterwear-girls-clothing-kids",
+                        "ChildCategoryName": "Winterwear",
+                        "CanCompare": "0"
+                    }
+                ]
+            },
+            {
+                "SubCategoryType": "baby-clothing-kids",
+                "SubCategoryName": "Baby Clothing",
+                "ChildCategoryList": [
+                    {
+                        "ChildCategory": "frocks-kids",
+                        "ChildCategoryName": "Frocks",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "tops-kids",
+                        "ChildCategoryName": "Tops & Tees",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "shorts-kids",
+                        "ChildCategoryName": "Shorts, Skirts & Jeans",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "pyjamas-leggings-kids",
+                        "ChildCategoryName": "Pyjamas & Leggings",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "inner-wear-kids",
+                        "ChildCategoryName": "Inner Wear",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "combo-sets-kids",
+                        "ChildCategoryName": "Combo Sets",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "blankets-kids",
+                        "ChildCategoryName": "Blankets, Quilts & Wraps",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "shirts-kids",
+                        "ChildCategoryName": "Shirts",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "ethnic-wear-kids",
+                        "ChildCategoryName": "Ethnic Wear",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "caps-bibs-mittens-kids",
+                        "ChildCategoryName": "Caps, Bibs & Mittens",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "rompers-kids",
+                        "ChildCategoryName": "Rompers",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "socks-tights-kids",
+                        "ChildCategoryName": "Socks & Tights",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "winterwear-kids",
+                        "ChildCategoryName": "Winterwear",
+                        "CanCompare": "0"
+                    }
+                ]
+            },
+            {
+                "SubCategoryType": "boys-footwear-kids",
+                "SubCategoryName": "Boys Footwear",
+                "ChildCategoryList": [
+                    {
+                        "ChildCategory": "casual-shoes-boys-kids",
+                        "ChildCategoryName": "Casual Shoes",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "sandals-boys-kids",
+                        "ChildCategoryName": "Sandals",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "floaters-boys-kids",
+                        "ChildCategoryName": "Floaters & Flip Flops",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "school-shoes-boys-kids",
+                        "ChildCategoryName": "School Shoes",
+                        "CanCompare": "0"
+                    }
+                ]
+            },
+            {
+                "SubCategoryType": "girls-footwear-kids",
+                "SubCategoryName": "Girls Footwear",
+                "ChildCategoryList": [
+                    {
+                        "ChildCategory": "bellies-girls-kids",
+                        "ChildCategoryName": "Bellies",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "sandals-girls-kids",
+                        "ChildCategoryName": "Sandals",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "floaters-girls-kids",
+                        "ChildCategoryName": "Floaters & Flip Flops",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "casual-shoes-girls-kids",
+                        "ChildCategoryName": "Casual Shoes",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "school-shoes-girls-kids",
+                        "ChildCategoryName": "School Shoes",
+                        "CanCompare": "0"
+                    }
+                ]
+            },
+            {
+                "SubCategoryType": "toddler-toys-kids",
+                "SubCategoryName": "Baby & Toddler Toys",
+                "ChildCategoryList": [
+                    {
+                        "ChildCategory": "baby-gym-kids",
+                        "ChildCategoryName": "Infant Play Gyms",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "blocks-kids",
+                        "ChildCategoryName": "Blocks & Stacking Games",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "trains-baby-kids",
+                        "ChildCategoryName": "Trains, Cars & Models",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "baby-soft-toys-kids",
+                        "ChildCategoryName": "Soft Toys",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "dolls-baby-kids",
+                        "ChildCategoryName": "Dolls & Dollhouses",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "fun-toys-kids",
+                        "ChildCategoryName": "Fun Toys",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "learning-activity-kids",
+                        "ChildCategoryName": "Learning & Activity Toys",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "musical-toys-baby-kids",
+                        "ChildCategoryName": "Musical Toys",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "pull-along-toys-kids",
+                        "ChildCategoryName": "Pull Along Toys",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "rattles-kids",
+                        "ChildCategoryName": "Baby Rattles",
+                        "CanCompare": "0"
+                    }
+                ]
+            },
+            {
+                "SubCategoryType": "toys-kids",
+                "SubCategoryName": "Kids Toys",
+                "ChildCategoryList": [
+                    {
+                        "ChildCategory": "outdoor-games-kids",
+                        "ChildCategoryName": "Outdoor Play",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "educational-learning-kids",
+                        "ChildCategoryName": "Educational & Learning",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "remote-control-toys-kids",
+                        "ChildCategoryName": "Remote controlled Toys",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "soft-toys-kids",
+                        "ChildCategoryName": "Soft Toys",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "trains-kids",
+                        "ChildCategoryName": "Trains, Cars and Models",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "doll-doll-houses-kids",
+                        "ChildCategoryName": "Dolls & Doll houses",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "construction-blocks-kids",
+                        "ChildCategoryName": "Construction & Blocks",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "art-creativity-kids",
+                        "ChildCategoryName": "Art & Creativity",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "puzzles-kids",
+                        "ChildCategoryName": "Puzzles",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "musical-toy-kids",
+                        "ChildCategoryName": "Musical Toy Instruments",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "action-games-kids",
+                        "ChildCategoryName": "Action games & figures",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "board-games-kids",
+                        "ChildCategoryName": "Board Games",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "figures-playsets-kids",
+                        "ChildCategoryName": "Figures & Playsets",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "games-sets-kids",
+                        "ChildCategoryName": "Games & Sets",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "guns-kids",
+                        "ChildCategoryName": "Guns",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "pc-console-kids",
+                        "ChildCategoryName": "PC & Console Gaming",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "pretend-play-kids",
+                        "ChildCategoryName": "Pretend Play",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "sports-equipment-kids",
+                        "ChildCategoryName": "Sports Equipment",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "swimming-pool-accessories-kids",
+                        "ChildCategoryName": "Swimming & Pool Accessories",
+                        "CanCompare": "0"
+                    }
+                ]
+            },
+            {
+                "SubCategoryType": "gear-kids",
+                "SubCategoryName": "Gear",
+                "ChildCategoryList": [
+                    {
+                        "ChildCategory": "carriers-carry-cots-kids",
+                        "ChildCategoryName": "Baby Carriers & Carry Cots",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "rockers-kids",
+                        "ChildCategoryName": "Bouncers, Rockers & Swings",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "strollers-kids",
+                        "ChildCategoryName": "Strollers, Prams & Car Seats",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "high-chairs-kids",
+                        "ChildCategoryName": "High Chairs & Booster Seats",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "baby-walkers-kids",
+                        "ChildCategoryName": "Baby Walkers",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "ride-ons-kids",
+                        "ChildCategoryName": "Bikes & Ride Ons",
+                        "CanCompare": "0"
+                    }
+                ]
+            },
+            {
+                "SubCategoryType": "diapering-kids",
+                "SubCategoryName": "Diapering",
+                "ChildCategoryList": [
+                    {
+                        "ChildCategory": "accessories-diaper-kids",
+                        "ChildCategoryName": "Accessories",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "cloth-diapers",
+                        "ChildCategoryName": "Cloth Diapers",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "disposable-diapers",
+                        "ChildCategoryName": "Disposable Diapers",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "diaper-creams",
+                        "ChildCategoryName": "Diaper Creams",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "wipes",
+                        "ChildCategoryName": "Wipes",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "potty-training-kids",
+                        "ChildCategoryName": "Potty Training & Step Stools",
+                        "CanCompare": "0"
+                    }
+                ]
+            },
+            {
+                "SubCategoryType": "nursery-kids",
+                "SubCategoryName": "Nursery",
+                "ChildCategoryList": [
+                    {
+                        "ChildCategory": "furniture-kids",
+                        "ChildCategoryName": "Kids Furniture",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "storage-kids",
+                        "ChildCategoryName": "Storage & Organization",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "room-decor-kids",
+                        "ChildCategoryName": "Kids Room Decor & Furnishing",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "accessories-nursery-kids",
+                        "ChildCategoryName": "Accessories",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "baby-bedding-kids",
+                        "ChildCategoryName": "Baby Bedding Sets & Pillows",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "baby-furniture-kids",
+                        "ChildCategoryName": "Baby Furniture",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "blankets-quilts-kids",
+                        "ChildCategoryName": "Blankets, Quilts & Wraps",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "wallpaper-kids",
+                        "ChildCategoryName": "Wall Paper & Sticker",
+                        "CanCompare": "0"
+                    }
+                ]
+            },
+            {
+                "SubCategoryType": "school-kids",
+                "SubCategoryName": "School & Stationery",
+                "ChildCategoryList": [
+                    {
+                        "ChildCategory": "lunchbox-water-bottles-kids",
+                        "ChildCategoryName": "Lunch box & Water Bottles",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "school-bags-kids",
+                        "ChildCategoryName": "School Bags",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "stationary-kids",
+                        "ChildCategoryName": "Stationery",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "art-craft-kids",
+                        "ChildCategoryName": "Art & Craft",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "books-cds-kids",
+                        "ChildCategoryName": "Books & CDs",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "party-supplies-kids",
+                        "ChildCategoryName": "Party Supplies",
+                        "CanCompare": "0"
+                    }
+                ]
+            },
+            {
+                "SubCategoryType": "accessories-kids",
+                "SubCategoryName": "Accessories",
+                "ChildCategoryList": [
+                    {
+                        "ChildCategory": "sunglasses-kids",
+                        "ChildCategoryName": "Sunglasses",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "watches-kids",
+                        "ChildCategoryName": "Watches",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "hair-accessories-kids",
+                        "ChildCategoryName": "Hair Accessories",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "jewellery-kids",
+                        "ChildCategoryName": "Jewellery",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "handbags-kids",
+                        "ChildCategoryName": "Handbags & Purses",
+                        "CanCompare": "0"
+                    }
+                ]
+            },
+            {
+                "SubCategoryType": "baby-footwear-kids",
+                "SubCategoryName": "Baby Footwear",
+                "ChildCategoryList": [
+                    {
+                        "ChildCategory": "booties-kids",
+                        "ChildCategoryName": "Booties",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "casual-shoes-kids",
+                        "ChildCategoryName": "Casual Shoes",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "sandals-kids",
+                        "ChildCategoryName": "Sandals",
+                        "CanCompare": "0"
+                    }
+                ]
+            },
+            {
+                "SubCategoryType": "bath-skin-care-kids",
+                "SubCategoryName": "Bath & Skin Care",
+                "ChildCategoryList": [
+                    {
+                        "ChildCategory": "lotions-oils-and-powders",
+                        "ChildCategoryName": "Lotions, Oils & Powders",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "soaps-shampoo-and-body-wash",
+                        "ChildCategoryName": "Soaps, Shampoo & Body Wash",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "bath-toys-kids",
+                        "ChildCategoryName": "Bath Toys",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "bath-tubs-kids",
+                        "ChildCategoryName": "Bath Tubs & Seats",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "combs-kids",
+                        "ChildCategoryName": "Brushes & Combs",
+                        "CanCompare": "0"
+                    }
+                ]
+            },
+            {
+                "SubCategoryType": "healthy-safety-kids",
+                "SubCategoryName": "Health & Safety",
+                "ChildCategoryList": [
+                    {
+                        "ChildCategory": "dental-care-kids",
+                        "ChildCategoryName": "Dental Care",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "detergents-kids",
+                        "ChildCategoryName": "Cleaners & Detergents",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "medicines-kids",
+                        "ChildCategoryName": "Medicines & Thermometers",
+                        "CanCompare": "0"
+                    }
+                ]
+            },
+            {
+                "SubCategoryType": "maternity-feeding-kids",
+                "SubCategoryName": "Maternity, Feeding & Nursing",
+                "ChildCategoryList": [
+                    {
+                        "ChildCategory": "formula-and-food-supplements",
+                        "ChildCategoryName": "Baby Food",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "bibs-kids",
+                        "ChildCategoryName": "Bibs & Hanky",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "bottles-sippers-kids",
+                        "ChildCategoryName": "Bottles & Sippers",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "breast-feeding-kids",
+                        "ChildCategoryName": "Breast Feeding",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "sterlisation-kids",
+                        "ChildCategoryName": "Bottle Cleaning & Sterilisation",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "teethers-kids",
+                        "ChildCategoryName": "Teethers & Soothers",
+                        "CanCompare": "0"
+                    },
+                    {
+                        "ChildCategory": "utensils-kids",
+                        "ChildCategoryName": "Dishes & Utensils",
+                        "CanCompare": "0"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "CategoryType": "sports",
+        "CategoryName": "Sports",
+        "CategoryIcon": "football.png",
+        "SubCategoryList": [
+            {
+                "SubCategoryType": "football-sports",
+                "SubCategoryName": "Football",
+                "ChildCategoryList": [
+                    {
+                        "ChildCategory": "football-accessories",
+                        "ChildCategoryName": "Football Accessories",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "football-gloves",
+                        "ChildCategoryName": "Football Gloves",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "football-guards",
+                        "ChildCategoryName": "Football Guards",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "footballs",
+                        "ChildCategoryName": "Footballs",
+                        "CanCompare": "1"
+                    }
+                ]
+            },
+            {
+                "SubCategoryType": "cricket-sports",
+                "SubCategoryName": "Cricket",
+                "ChildCategoryList": [
+                    {
+                        "ChildCategory": "cricket-balls",
+                        "ChildCategoryName": "Cricket Balls",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "cricket-bats",
+                        "ChildCategoryName": "Cricket Bats",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "cricket-gloves",
+                        "ChildCategoryName": "Cricket Gloves",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "cricket-guards",
+                        "ChildCategoryName": "Cricket Guards",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "cricket-helmets",
+                        "ChildCategoryName": "Cricket Helmets",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "cricket-kit-bags",
+                        "ChildCategoryName": "Cricket Kit Bags",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "cricket-sets",
+                        "ChildCategoryName": "Cricket Sets",
+                        "CanCompare": "1"
+                    }
+                ]
+            },
+            {
+                "SubCategoryType": "basketball-sports",
+                "SubCategoryName": "Basketball",
+                "ChildCategoryList": [
+                    {
+                        "ChildCategory": "basketball-boards",
+                        "ChildCategoryName": "Basketball Boards",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "basketballs",
+                        "ChildCategoryName": "Basketballs",
+                        "CanCompare": "1"
+                    }
+                ]
+            },
+            {
+                "SubCategoryType": "badminton-sports",
+                "SubCategoryName": "Badminton",
+                "ChildCategoryList": [
+                    {
+                        "ChildCategory": "grips",
+                        "ChildCategoryName": "Grips",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "raquets",
+                        "ChildCategoryName": "Raquets",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "shuttles",
+                        "ChildCategoryName": "Shuttles",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "strings",
+                        "ChildCategoryName": "Strings",
+                        "CanCompare": "1"
+                    }
+                ]
+            },
+            {
+                "SubCategoryType": "fitness-outdoor-sports",
+                "SubCategoryName": "Other sports-fitness & Outdoors",
+                "ChildCategoryList": [
+                    {
+                        "ChildCategory": "billiards",
+                        "ChildCategoryName": "Billiards",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "boxing",
+                        "ChildCategoryName": "Boxing",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "hockey",
+                        "ChildCategoryName": "Hockey",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "roller-skates",
+                        "ChildCategoryName": "Roller Skates",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "scooters",
+                        "ChildCategoryName": "Scooters",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "skateboards",
+                        "ChildCategoryName": "Skateboards",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "squash",
+                        "ChildCategoryName": "Squash",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "volleyball",
+                        "ChildCategoryName": "Volleyball",
+                        "CanCompare": "1"
+                    }
+                ]
+            },
+            {
+                "SubCategoryType": "cycling-sports",
+                "SubCategoryName": "Cycling",
+                "ChildCategoryList": [
+                    {
+                        "ChildCategory": "bicycle-accessories",
+                        "ChildCategoryName": "Bicycle Accessories",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "bicycles",
+                        "ChildCategoryName": "Bicycles",
+                        "CanCompare": "1"
+                    }
+                ]
+            },
+            {
+                "SubCategoryType": "table-tennis-sports",
+                "SubCategoryName": "Table Tennis",
+                "ChildCategoryList": [
+                    {
+                        "ChildCategory": "table-tennis-kits",
+                        "ChildCategoryName": "Table Tennis Kits",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "tables-and-accessories",
+                        "ChildCategoryName": "Tables & Accessories",
+                        "CanCompare": "1"
+                    }
+                ]
+            },
+            {
+                "SubCategoryType": "exercise-sports",
+                "SubCategoryName": "Exercise & Fitness",
+                "ChildCategoryList": [
+                    {
+                        "ChildCategory": "cross-and-elliptical-trainers",
+                        "ChildCategoryName": "Cross & Elliptical trainers",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "dumbbells",
+                        "ChildCategoryName": "Dumbbells",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "weighing-scales",
+                        "ChildCategoryName": "Weighing Scales",
+                        "CanCompare": "1"
+                    }
+                ]
+            },
+            {
+                "SubCategoryType": "lawn-tennis-sports",
+                "SubCategoryName": "Lawn Tennis",
+                "ChildCategoryList": [
+                    {
+                        "ChildCategory": "lawn-tennis-balls",
+                        "ChildCategoryName": "Lawn Tennis Balls",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "lawn-tennis-grips",
+                        "ChildCategoryName": "Lawn Tennis Grips",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "lawn-tennis-kit-bags",
+                        "ChildCategoryName": "Lawn Tennis Kit Bags",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "lawn-tennis-raquets",
+                        "ChildCategoryName": "Lawn Tennis Raquets",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "lawn-tennis-strings",
+                        "ChildCategoryName": "Lawn Tennis Strings",
+                        "CanCompare": "1"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "CategoryType": "beauty",
+        "CategoryName": "Beauty",
+        "CategoryIcon": "beauty.png",
+        "SubCategoryList": [
+            {
+                "SubCategoryType": "eyes-beauty",
+                "SubCategoryName": "Eyes",
+                "ChildCategoryList": [
+                    {
+                        "ChildCategory": "eye-liner",
+                        "ChildCategoryName": "Eye Liner",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "eye-shadows",
+                        "ChildCategoryName": "Eye Shadow",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "kajal",
+                        "ChildCategoryName": "Kajal",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "mascara",
+                        "ChildCategoryName": "Mascara",
+                        "CanCompare": "1"
+                    }
+                ]
+            },
+            {
+                "SubCategoryType": "nails-beauty",
+                "SubCategoryName": "Nails",
+                "ChildCategoryList": [
+                    {
+                        "ChildCategory": "nail-effects",
+                        "ChildCategoryName": "Nail Effects",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "nail-polish",
+                        "ChildCategoryName": "Nail Polish",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "nail-polish-remover",
+                        "ChildCategoryName": "Nail Polish Remover",
+                        "CanCompare": "1"
+                    }
+                ]
+            },
+            {
+                "SubCategoryType": "fragrance-beauty",
+                "SubCategoryName": "Fragrance",
+                "ChildCategoryList": [
+                    {
+                        "ChildCategory": "body-mist",
+                        "ChildCategoryName": "Body Mist",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "men-deos",
+                        "ChildCategoryName": "Men Deos",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "men-perfumes",
+                        "ChildCategoryName": "Men Perfumes",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "women-deos",
+                        "ChildCategoryName": "Women Deos",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "women-perfumes",
+                        "ChildCategoryName": "Women Perfumes",
+                        "CanCompare": "1"
+                    }
+                ]
+            },
+            {
+                "SubCategoryType": "lips-beauty",
+                "SubCategoryName": "Lips",
+                "ChildCategoryList": [
+                    {
+                        "ChildCategory": "lip-balms",
+                        "ChildCategoryName": "Lip Balms ",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "lip-gloss",
+                        "ChildCategoryName": "Lip Gloss",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "lip-liners",
+                        "ChildCategoryName": "Lip Liners",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "lipstick",
+                        "ChildCategoryName": "Lipstick",
+                        "CanCompare": "1"
+                    }
+                ]
+            },
+            {
+                "SubCategoryType": "face-beauty",
+                "SubCategoryName": "Face",
+                "ChildCategoryList": [
+                    {
+                        "ChildCategory": "bb-and-cc-cream",
+                        "ChildCategoryName": "BB & CC Creams",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "blush-and-bronzer",
+                        "ChildCategoryName": "Blush",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "bronzer",
+                        "ChildCategoryName": "Bronzer",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "compact",
+                        "ChildCategoryName": "Compact Powder ",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "eye-make-up-remover",
+                        "ChildCategoryName": "Makeup Remover",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "face-concealer",
+                        "ChildCategoryName": "Concealer",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "foundation-and-compacts",
+                        "ChildCategoryName": "Foundation ",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "primer",
+                        "ChildCategoryName": "Primer",
+                        "CanCompare": "1"
+                    }
+                ]
+            },
+            {
+                "SubCategoryType": "men-shaving-grooming-beauty",
+                "SubCategoryName": "Men Shaving & Grooming",
+                "ChildCategoryList": [
+                    {
+                        "ChildCategory": "after-shaves",
+                        "ChildCategoryName": "After Shaves",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "cartridges-and-blades",
+                        "ChildCategoryName": "Cartridges & Blades",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "razors",
+                        "ChildCategoryName": "Razors",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "shaving-brushes",
+                        "ChildCategoryName": "Shaving Brushes",
+                        "CanCompare": "1"
+                    },
+                    {
+                        "ChildCategory": "shaving-foam-cream-and-gel",
+                        "ChildCategoryName": "Shaving Foam, Cream & Gels",
+                        "CanCompare": "1"
+                    }
+                ]
+            }
+        ]
+    }
+]
+}

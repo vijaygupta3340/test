@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "t-shart",
+      "colour": "red"
+    },
+    {
+      "id": 2,
+      "name": "trouser",
+      "colour": "white"
+    },
+    {
+      "id": 3,
+      "name": "hat",
+      "colour": "blue"
+    },
+    {
+      "id": 4
+    },
+    {
+      "id": 5
+    },
+    {
+      "id": 6
+    },
+    {
+      "id": 7
+    },
+    {
+      "id": 8
+    },
+    {
+      "name": "aaa",
+      "colour": "bbb",
+      "id": 9
+    },
+    {
+      "name": "tie",
+      "colour": "Green",
+      "id": 10
+    }
+  ]
+}
